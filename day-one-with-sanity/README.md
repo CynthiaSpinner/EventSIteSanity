@@ -1,0 +1,1 @@
+This project has been created using Sanity with TypeScript. This is a CMS designed to keep track of events, names of events, venues, tickets, pricing, dates and times. created schema types and content of artist, event and venue, created fields within those content types.
